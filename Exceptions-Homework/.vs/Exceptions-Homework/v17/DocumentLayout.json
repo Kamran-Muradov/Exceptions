@@ -1,0 +1,207 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Workspace Code Academy\\Exceptions-Homework\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D8C64A51-B5C9-421C-83B1-E79AAC5FB65B}|Exceptions-Homework\\Exceptions-Homework.csproj|c:\\workspace code academy\\exceptions-homework\\exceptions-homework\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D8C64A51-B5C9-421C-83B1-E79AAC5FB65B}|Exceptions-Homework\\Exceptions-Homework.csproj|solutionrelative:exceptions-homework\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D8C64A51-B5C9-421C-83B1-E79AAC5FB65B}|Exceptions-Homework\\Exceptions-Homework.csproj|c:\\workspace code academy\\exceptions-homework\\exceptions-homework\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D8C64A51-B5C9-421C-83B1-E79AAC5FB65B}|Exceptions-Homework\\Exceptions-Homework.csproj|solutionrelative:exceptions-homework\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D8C64A51-B5C9-421C-83B1-E79AAC5FB65B}|Exceptions-Homework\\Exceptions-Homework.csproj|c:\\workspace code academy\\exceptions-homework\\exceptions-homework\\services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D8C64A51-B5C9-421C-83B1-E79AAC5FB65B}|Exceptions-Homework\\Exceptions-Homework.csproj|solutionrelative:exceptions-homework\\services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D8C64A51-B5C9-421C-83B1-E79AAC5FB65B}|Exceptions-Homework\\Exceptions-Homework.csproj|c:\\workspace code academy\\exceptions-homework\\exceptions-homework\\helpers\\exceptions\\notfoundexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D8C64A51-B5C9-421C-83B1-E79AAC5FB65B}|Exceptions-Homework\\Exceptions-Homework.csproj|solutionrelative:exceptions-homework\\helpers\\exceptions\\notfoundexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D8C64A51-B5C9-421C-83B1-E79AAC5FB65B}|Exceptions-Homework\\Exceptions-Homework.csproj|c:\\workspace code academy\\exceptions-homework\\exceptions-homework\\controllers\\mathcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D8C64A51-B5C9-421C-83B1-E79AAC5FB65B}|Exceptions-Homework\\Exceptions-Homework.csproj|solutionrelative:exceptions-homework\\controllers\\mathcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D8C64A51-B5C9-421C-83B1-E79AAC5FB65B}|Exceptions-Homework\\Exceptions-Homework.csproj|c:\\workspace code academy\\exceptions-homework\\exceptions-homework\\helpers\\exceptions\\invalidpasswordexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D8C64A51-B5C9-421C-83B1-E79AAC5FB65B}|Exceptions-Homework\\Exceptions-Homework.csproj|solutionrelative:exceptions-homework\\helpers\\exceptions\\invalidpasswordexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D8C64A51-B5C9-421C-83B1-E79AAC5FB65B}|Exceptions-Homework\\Exceptions-Homework.csproj|c:\\workspace code academy\\exceptions-homework\\exceptions-homework\\models\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D8C64A51-B5C9-421C-83B1-E79AAC5FB65B}|Exceptions-Homework\\Exceptions-Homework.csproj|solutionrelative:exceptions-homework\\models\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D8C64A51-B5C9-421C-83B1-E79AAC5FB65B}|Exceptions-Homework\\Exceptions-Homework.csproj|c:\\workspace code academy\\exceptions-homework\\exceptions-homework\\services\\interfaces\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D8C64A51-B5C9-421C-83B1-E79AAC5FB65B}|Exceptions-Homework\\Exceptions-Homework.csproj|solutionrelative:exceptions-homework\\services\\interfaces\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D8C64A51-B5C9-421C-83B1-E79AAC5FB65B}|Exceptions-Homework\\Exceptions-Homework.csproj|c:\\workspace code academy\\exceptions-homework\\exceptions-homework\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D8C64A51-B5C9-421C-83B1-E79AAC5FB65B}|Exceptions-Homework\\Exceptions-Homework.csproj|solutionrelative:exceptions-homework\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D8C64A51-B5C9-421C-83B1-E79AAC5FB65B}|Exceptions-Homework\\Exceptions-Homework.csproj|c:\\workspace code academy\\exceptions-homework\\exceptions-homework\\services\\mathservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D8C64A51-B5C9-421C-83B1-E79AAC5FB65B}|Exceptions-Homework\\Exceptions-Homework.csproj|solutionrelative:exceptions-homework\\services\\mathservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D8C64A51-B5C9-421C-83B1-E79AAC5FB65B}|Exceptions-Homework\\Exceptions-Homework.csproj|c:\\workspace code academy\\exceptions-homework\\exceptions-homework\\helpers\\exceptions\\mathexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D8C64A51-B5C9-421C-83B1-E79AAC5FB65B}|Exceptions-Homework\\Exceptions-Homework.csproj|solutionrelative:exceptions-homework\\helpers\\exceptions\\mathexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "InvalidPasswordException.cs",
+              "DocumentMoniker": "C:\\Workspace Code Academy\\Exceptions-Homework\\Exceptions-Homework\\Helpers\\Exceptions\\InvalidPasswordException.cs",
+              "RelativeDocumentMoniker": "Exceptions-Homework\\Helpers\\Exceptions\\InvalidPasswordException.cs",
+              "ToolTip": "C:\\Workspace Code Academy\\Exceptions-Homework\\Exceptions-Homework\\Helpers\\Exceptions\\InvalidPasswordException.cs",
+              "RelativeToolTip": "Exceptions-Homework\\Helpers\\Exceptions\\InvalidPasswordException.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAA1AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-10T15:56:58.204Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "C:\\Workspace Code Academy\\Exceptions-Homework\\Exceptions-Homework\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "Exceptions-Homework\\Controllers\\UserController.cs",
+              "ToolTip": "C:\\Workspace Code Academy\\Exceptions-Homework\\Exceptions-Homework\\Controllers\\UserController.cs",
+              "RelativeToolTip": "Exceptions-Homework\\Controllers\\UserController.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAA7wCAAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-10T15:44:35.697Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "NotFoundException.cs",
+              "DocumentMoniker": "C:\\Workspace Code Academy\\Exceptions-Homework\\Exceptions-Homework\\Helpers\\Exceptions\\NotFoundException.cs",
+              "RelativeDocumentMoniker": "Exceptions-Homework\\Helpers\\Exceptions\\NotFoundException.cs",
+              "ToolTip": "C:\\Workspace Code Academy\\Exceptions-Homework\\Exceptions-Homework\\Helpers\\Exceptions\\NotFoundException.cs",
+              "RelativeToolTip": "Exceptions-Homework\\Helpers\\Exceptions\\NotFoundException.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-10T11:49:20.959Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "UserService.cs",
+              "DocumentMoniker": "C:\\Workspace Code Academy\\Exceptions-Homework\\Exceptions-Homework\\Services\\UserService.cs",
+              "RelativeDocumentMoniker": "Exceptions-Homework\\Services\\UserService.cs",
+              "ToolTip": "C:\\Workspace Code Academy\\Exceptions-Homework\\Exceptions-Homework\\Services\\UserService.cs",
+              "RelativeToolTip": "Exceptions-Homework\\Services\\UserService.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAQwHUAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-10T11:44:06.536Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "IUserService.cs",
+              "DocumentMoniker": "C:\\Workspace Code Academy\\Exceptions-Homework\\Exceptions-Homework\\Services\\Interfaces\\IUserService.cs",
+              "RelativeDocumentMoniker": "Exceptions-Homework\\Services\\Interfaces\\IUserService.cs",
+              "ToolTip": "C:\\Workspace Code Academy\\Exceptions-Homework\\Exceptions-Homework\\Services\\Interfaces\\IUserService.cs",
+              "RelativeToolTip": "Exceptions-Homework\\Services\\Interfaces\\IUserService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-10T11:42:49.677Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "BaseEntity.cs",
+              "DocumentMoniker": "C:\\Workspace Code Academy\\Exceptions-Homework\\Exceptions-Homework\\Models\\BaseEntity.cs",
+              "RelativeDocumentMoniker": "Exceptions-Homework\\Models\\BaseEntity.cs",
+              "ToolTip": "C:\\Workspace Code Academy\\Exceptions-Homework\\Exceptions-Homework\\Models\\BaseEntity.cs",
+              "RelativeToolTip": "Exceptions-Homework\\Models\\BaseEntity.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-10T11:41:51.797Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Workspace Code Academy\\Exceptions-Homework\\Exceptions-Homework\\Models\\User.cs",
+              "RelativeDocumentMoniker": "Exceptions-Homework\\Models\\User.cs",
+              "ToolTip": "C:\\Workspace Code Academy\\Exceptions-Homework\\Exceptions-Homework\\Models\\User.cs",
+              "RelativeToolTip": "Exceptions-Homework\\Models\\User.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-10T11:40:08.844Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MathController.cs",
+              "DocumentMoniker": "C:\\Workspace Code Academy\\Exceptions-Homework\\Exceptions-Homework\\Controllers\\MathController.cs",
+              "RelativeDocumentMoniker": "Exceptions-Homework\\Controllers\\MathController.cs",
+              "ToolTip": "C:\\Workspace Code Academy\\Exceptions-Homework\\Exceptions-Homework\\Controllers\\MathController.cs",
+              "RelativeToolTip": "Exceptions-Homework\\Controllers\\MathController.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAQwA8AAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-10T07:00:25.027Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "MathException.cs",
+              "DocumentMoniker": "C:\\Workspace Code Academy\\Exceptions-Homework\\Exceptions-Homework\\Helpers\\Exceptions\\MathException.cs",
+              "RelativeDocumentMoniker": "Exceptions-Homework\\Helpers\\Exceptions\\MathException.cs",
+              "ToolTip": "C:\\Workspace Code Academy\\Exceptions-Homework\\Exceptions-Homework\\Helpers\\Exceptions\\MathException.cs",
+              "RelativeToolTip": "Exceptions-Homework\\Helpers\\Exceptions\\MathException.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAA8AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-10T05:54:37.146Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "MathService.cs",
+              "DocumentMoniker": "C:\\Workspace Code Academy\\Exceptions-Homework\\Exceptions-Homework\\Services\\MathService.cs",
+              "RelativeDocumentMoniker": "Exceptions-Homework\\Services\\MathService.cs",
+              "ToolTip": "C:\\Workspace Code Academy\\Exceptions-Homework\\Exceptions-Homework\\Services\\MathService.cs",
+              "RelativeToolTip": "Exceptions-Homework\\Services\\MathService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-10T05:49:03.02Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Workspace Code Academy\\Exceptions-Homework\\Exceptions-Homework\\Program.cs",
+              "RelativeDocumentMoniker": "Exceptions-Homework\\Program.cs",
+              "ToolTip": "C:\\Workspace Code Academy\\Exceptions-Homework\\Exceptions-Homework\\Program.cs",
+              "RelativeToolTip": "Exceptions-Homework\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-10T05:46:19.865Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Workspace Code Academy\\Exceptions\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3271EBD2-B4B3-47A1-A012-4F9BBEDFB715}|Exceptions\\Exceptions.csproj|c:\\workspace code academy\\exceptions\\exceptions\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3271EBD2-B4B3-47A1-A012-4F9BBEDFB715}|Exceptions\\Exceptions.csproj|solutionrelative:exceptions\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3271EBD2-B4B3-47A1-A012-4F9BBEDFB715}|Exceptions\\Exceptions.csproj|c:\\workspace code academy\\exceptions\\exceptions\\helpers\\exceptions\\customargumentnullexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3271EBD2-B4B3-47A1-A012-4F9BBEDFB715}|Exceptions\\Exceptions.csproj|solutionrelative:exceptions\\helpers\\exceptions\\customargumentnullexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3271EBD2-B4B3-47A1-A012-4F9BBEDFB715}|Exceptions\\Exceptions.csproj|c:\\workspace code academy\\exceptions\\exceptions\\resad.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3271EBD2-B4B3-47A1-A012-4F9BBEDFB715}|Exceptions\\Exceptions.csproj|solutionrelative:exceptions\\resad.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CustomArgumentNullException.cs",
+              "DocumentMoniker": "C:\\Workspace Code Academy\\Exceptions\\Exceptions\\Helpers\\Exceptions\\CustomArgumentNullException.cs",
+              "RelativeDocumentMoniker": "Exceptions\\Helpers\\Exceptions\\CustomArgumentNullException.cs",
+              "ToolTip": "C:\\Workspace Code Academy\\Exceptions\\Exceptions\\Helpers\\Exceptions\\CustomArgumentNullException.cs",
+              "RelativeToolTip": "Exceptions\\Helpers\\Exceptions\\CustomArgumentNullException.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-09T08:06:57.237Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Resad.cs",
+              "DocumentMoniker": "C:\\Workspace Code Academy\\Exceptions\\Exceptions\\Resad.cs",
+              "RelativeDocumentMoniker": "Exceptions\\Resad.cs",
+              "ToolTip": "C:\\Workspace Code Academy\\Exceptions\\Exceptions\\Resad.cs",
+              "RelativeToolTip": "Exceptions\\Resad.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-09T07:45:31.989Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Workspace Code Academy\\Exceptions\\Exceptions\\Program.cs",
+              "RelativeDocumentMoniker": "Exceptions\\Program.cs",
+              "ToolTip": "C:\\Workspace Code Academy\\Exceptions\\Exceptions\\Program.cs",
+              "RelativeToolTip": "Exceptions\\Program.cs",
+              "ViewState": "AQIAAEMAAAAAAAAAAAAgwE0AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-09T06:10:05.158Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

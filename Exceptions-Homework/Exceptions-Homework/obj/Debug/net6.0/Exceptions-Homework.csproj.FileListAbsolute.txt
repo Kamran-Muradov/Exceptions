@@ -1,0 +1,14 @@
+C:\Workspace Code Academy\Exceptions-Homework\Exceptions-Homework\bin\Debug\net6.0\Exceptions-Homework.exe
+C:\Workspace Code Academy\Exceptions-Homework\Exceptions-Homework\bin\Debug\net6.0\Exceptions-Homework.deps.json
+C:\Workspace Code Academy\Exceptions-Homework\Exceptions-Homework\bin\Debug\net6.0\Exceptions-Homework.runtimeconfig.json
+C:\Workspace Code Academy\Exceptions-Homework\Exceptions-Homework\bin\Debug\net6.0\Exceptions-Homework.dll
+C:\Workspace Code Academy\Exceptions-Homework\Exceptions-Homework\bin\Debug\net6.0\Exceptions-Homework.pdb
+C:\Workspace Code Academy\Exceptions-Homework\Exceptions-Homework\obj\Debug\net6.0\Exceptions-Homework.GeneratedMSBuildEditorConfig.editorconfig
+C:\Workspace Code Academy\Exceptions-Homework\Exceptions-Homework\obj\Debug\net6.0\Exceptions-Homework.AssemblyInfoInputs.cache
+C:\Workspace Code Academy\Exceptions-Homework\Exceptions-Homework\obj\Debug\net6.0\Exceptions-Homework.AssemblyInfo.cs
+C:\Workspace Code Academy\Exceptions-Homework\Exceptions-Homework\obj\Debug\net6.0\Exceptions-Homework.csproj.CoreCompileInputs.cache
+C:\Workspace Code Academy\Exceptions-Homework\Exceptions-Homework\obj\Debug\net6.0\Exceptions-Homework.dll
+C:\Workspace Code Academy\Exceptions-Homework\Exceptions-Homework\obj\Debug\net6.0\refint\Exceptions-Homework.dll
+C:\Workspace Code Academy\Exceptions-Homework\Exceptions-Homework\obj\Debug\net6.0\Exceptions-Homework.pdb
+C:\Workspace Code Academy\Exceptions-Homework\Exceptions-Homework\obj\Debug\net6.0\Exceptions-Homework.genruntimeconfig.cache
+C:\Workspace Code Academy\Exceptions-Homework\Exceptions-Homework\obj\Debug\net6.0\ref\Exceptions-Homework.dll

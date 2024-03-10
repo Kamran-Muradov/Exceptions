@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34622.214
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exceptions-Homework", "Exceptions-Homework\Exceptions-Homework.csproj", "{D8C64A51-B5C9-421C-83B1-E79AAC5FB65B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D8C64A51-B5C9-421C-83B1-E79AAC5FB65B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D8C64A51-B5C9-421C-83B1-E79AAC5FB65B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D8C64A51-B5C9-421C-83B1-E79AAC5FB65B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D8C64A51-B5C9-421C-83B1-E79AAC5FB65B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8112AB8D-CA03-4F04-99FE-45D298D2BAFA}
+	EndGlobalSection
+EndGlobal
